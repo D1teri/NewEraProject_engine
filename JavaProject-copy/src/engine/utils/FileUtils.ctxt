@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=FileUtils
+comment1.params=path
+comment1.target=java.lang.String\ loadAsString(java.lang.String)
+numComments=2

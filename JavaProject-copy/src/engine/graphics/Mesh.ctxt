@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Mesh
+comment1.params=vertices\ indices\ material
+comment1.target=Mesh(Vertex[],\ int[],\ Material)
+comment10.params=
+comment10.target=int\ getTBO()
+comment11.params=
+comment11.target=int\ getIBO()
+comment12.params=
+comment12.target=Material\ getMaterial()
+comment2.params=
+comment2.target=void\ create()
+comment3.params=buffer\ index\ size
+comment3.target=int\ storeData(java.nio.FloatBuffer,\ int,\ int)
+comment4.params=
+comment4.target=void\ destroy()
+comment5.params=
+comment5.target=Vertex[]\ getVertices()
+comment6.params=
+comment6.target=int[]\ getIndices()
+comment7.params=
+comment7.target=int\ getVAO()
+comment8.params=
+comment8.target=int\ getPBO()
+comment9.params=
+comment9.target=int\ getCBO()
+numComments=13

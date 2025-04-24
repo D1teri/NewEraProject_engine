@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Camera
+comment1.params=position\ rotation
+comment1.target=Camera(src.engine.maths.Vector3f,\ src.engine.maths.Vector3f)
+comment2.params=
+comment2.target=void\ update()
+comment3.params=
+comment3.target=src.engine.maths.Vector3f\ getPosition()
+comment4.params=
+comment4.target=src.engine.maths.Vector3f\ getRotation()
+numComments=5

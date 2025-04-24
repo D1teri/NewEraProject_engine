@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Vertex
+comment1.params=position\ textureCoord
+comment1.target=Vertex(src.engine.maths.Vector3f,\ src.engine.maths.Vector2f)
+comment2.params=
+comment2.target=src.engine.maths.Vector3f\ getPosition()
+comment3.params=
+comment3.target=src.engine.maths.Vector2f\ getTextureCoord()
+numComments=4

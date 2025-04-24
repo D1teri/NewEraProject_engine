@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Shader
+comment1.params=vertexPath\ fragmentPath
+comment1.target=Shader(java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=void\ bind()
+comment11.params=
+comment11.target=void\ unbind()
+comment12.params=
+comment12.target=void\ destroy()
+comment2.params=
+comment2.target=void\ create()
+comment3.params=name
+comment3.target=int\ getUniformLocation(java.lang.String)
+comment4.params=name\ value
+comment4.target=void\ setUniform(java.lang.String,\ float)
+comment5.params=name\ value
+comment5.target=void\ setUniform(java.lang.String,\ int)
+comment6.params=name\ value
+comment6.target=void\ setUniform(java.lang.String,\ boolean)
+comment7.params=name\ value
+comment7.target=void\ setUniform(java.lang.String,\ src.engine.maths.Vector2f)
+comment8.params=name\ value
+comment8.target=void\ setUniform(java.lang.String,\ src.engine.maths.Vector3f)
+comment9.params=name\ value
+comment9.target=void\ setUniform(java.lang.String,\ src.engine.maths.Matrix4f)
+numComments=13

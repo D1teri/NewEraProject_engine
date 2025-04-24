@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Renderer
+comment1.params=window\ shader
+comment1.target=Renderer(src.engine.io.Window,\ Shader)
+comment2.params=object\ camera
+comment2.target=void\ renderMesh(src.engine.objects.GameObject,\ src.engine.objects.Camera)
+numComments=3
